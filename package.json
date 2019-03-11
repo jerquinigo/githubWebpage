@@ -2,7 +2,7 @@
   "name": "githubwebpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jerquinigo/githubWebpage",
+  "homepage": "http://jerquinigo.github.io/githubWebpage",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
